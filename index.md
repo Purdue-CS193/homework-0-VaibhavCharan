@@ -13,9 +13,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Vaibhav's First CS193 Homework
 
-- I like CS 193 because its taught by students
-- I enjoy the useful tips given to me duringn this class
-- I like the classroom
+- I like CS193 because its taught by students.
+- I enjoy the useful tips given to me during this class.
+- I like the classroom.
 
 
 
